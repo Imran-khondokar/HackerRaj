@@ -64,8 +64,8 @@ logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr
 ░ ░░ ░ ░ ░ ░ ▒  ░      ░     ░   ▒    ▒ ░  ░ ░   
 ░  ░       ░ ░         ░         ░  ░ ░      ░  ░
                                                  
-               WhatsApp: 03124788959
-                        KOMAIL
+               WhatsApp: 01316577116
+                      Xraf Xhammad  Raj
                      ▇◤▔▔▔▔▔▔▔◥▇
                      ▇▏◥▇◣┊◢▇◤▕▇
                      ▇▏▃▆▅▎▅▆▃▕▇
@@ -80,9 +80,9 @@ logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr
           ♥️♥️♥️ ßєş┼ ๏F LЦcK  ♥️♥️♥️
       ♥️♥️ rąM乙ąЙ MЦßąrąK ┼๏ єVєrY ß๏đY  ♥️♥️
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mKomail Khan
+\033[1;96mAuthor  \033[1;93m: \033[1;92mXraf Xhammad  Raj
 \033[1;96mInstagram \033[1;93m: \033[1: itx_muskan_yr
-\033[1;96mFacebook  \033[1;93m: \033[1: komail.khan.3781
+\033[1;96mFacebook  \033[1;93m: \033[1: Xraf Xhammad  Raj
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/KomailKhan/komailkhan
 \033[1;91m======================================="""
 
@@ -126,12 +126,12 @@ print  """\033[1;91m
 \033[1;96mAuthor  \033[1;93m: \033[1;92mKomail Khan
 \033[1;96mInstagram \033[1;93m: \033[1;92mitx_muskan_yr
 \033[1;96mFacebook  \033[1;93m: \033[1;92m komail.khan.3781
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/KomailKhan/komailkhan
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Imran-Khondokar/HackerRaj
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "komail"
-CorrectPassword = "khan"
+CorrectUsername = "raj"
+CorrectPassword = "raj"
 
 loop = 'true'
 while (loop == 'true'):
